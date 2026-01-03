@@ -3,7 +3,7 @@ name = "ai-engine"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "ApoorvZime",email = "apoorv@zime.ai"}
+    {name = "Apoorv3000",email = "apoorvkumarvbcv@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13,<4.0"
