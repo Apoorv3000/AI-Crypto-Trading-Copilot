@@ -1,0 +1,10 @@
+{
+  "name": "AI Trading Engine",
+  "version": "1.0.0",
+  "description": "Hierarchical multi-agent trading system with LangGraph",
+  "graphs": {
+    "hierarchical_trading_graph": "./ai_engine/graph/hierarchical_graph.py:create_hierarchical_graph"
+  },
+  "env": ".env",
+  "python_version": "3.13"
+}
